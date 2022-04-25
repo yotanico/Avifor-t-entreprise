@@ -38,7 +38,8 @@
 	</body>
 </html >
 
-
+<css> 
+	
 h2, p
 {
 	color: white;
@@ -99,4 +100,4 @@ footer
 	
 }
 
-
+</css>
