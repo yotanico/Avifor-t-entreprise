@@ -37,3 +37,66 @@
 		</footer>
 	</body>
 </html >
+
+
+h2, p
+{
+	color: white;
+}
+
+p, ul
+{
+	font-size: 1.2em;
+	font-family: Verdana, sans-serif;
+}
+
+p, h2
+{
+	text-align: center;
+}
+
+.sommaire
+{
+	text-align: left;
+}
+ 
+ body
+ {
+	background-color: #084018;
+	color: white;
+ }
+  
+.link 
+{
+	color: #db7f1e; 
+}
+
+h1
+{
+	color: white;
+	text-align: center;
+	border: 6px #db7f1e outset;
+	border-radius: 20px;
+	box-shadow: 6px 6px 12px black;
+}
+
+img
+{
+	width: 750px;
+	height: 750px;
+}
+
+footer
+{
+	border: 6px #db7f1e outset;
+	border-radius: 10px;
+}
+
+.logo
+{
+	width: 150px;
+	height: 150px;
+	
+}
+
+
